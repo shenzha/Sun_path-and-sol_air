@@ -1,2 +1,4 @@
 # Sun_path-and-sol_air
-Python scripts for the HVAC final design projects
+This repo is used solely for demostrating the calculation procedures for the HVAC project.
+
+All Rights Reserved.
